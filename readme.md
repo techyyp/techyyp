@@ -2,8 +2,8 @@
 🎓 Engineering Student | 💻 Developer | ⚙️ Tech Enthusiast
 
 ## 👨‍💻About Me
-- 🔰Learning: React
-- ⚒️Working on: Weather App
+- 🔰Learning: Different Front-end Libraries, Frameworks and tools
+- ⚒️Working on: Multiple Front-end Projects for concept building and practice
 - 🎯Aim: to become a full-stack developer
 
 ## 💻Tech Stack
@@ -13,7 +13,7 @@
 
 ## ⚒️Skills
 - 💻Languages: C, Python, C++
-- 🌐Web: HTML, CSS, JavaScript, ⚛️react
+- 🌐Web: HTML, CSS, JavaScript, ⚛️react, Tailwind, Framer Motion
 - 🧰Tools: Git, GitHub, VS code
 
 ## 🚀Projects
