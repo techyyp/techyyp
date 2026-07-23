@@ -101,7 +101,7 @@ A modern blogging platform with authentication, rich text editing, image uploads
 `Jun 2026 → Jul 2026`
 
 **Repository**  
- 🔗 [Repo](https://github.com/priyanshugupta18-web/WatchIt)
+ 🔗 [Repo](https://github.com/priyanshugupta18-web/WriteIt)
 
 **Live Demo**  
  🌐 [Live](https://writeit-delta.vercel.app)
@@ -125,7 +125,7 @@ A production-grade video streaming platform with secure authentication, video up
 `Aug 2026 → Present`
 
 **Repository**  
-🚧 Coming Soon
+🔗 [Repo](https://github.com/priyanshugupta18-web/WatchIt)
 
 **Live Demo**  
 🚧 Coming Soon
