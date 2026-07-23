@@ -101,10 +101,10 @@ A modern blogging platform with authentication, rich text editing, image uploads
 `Jun 2026 → Jul 2026`
 
 **Repository**  
-🔗 https://github.com/priyanshugupta18-web/write-it
+ 🔗 [Repo](https://github.com/priyanshugupta18-web/WatchIt)
 
 **Live Demo**  
-🌐 https://writeit-delta.vercel.app
+ 🌐 [Live](https://writeit-delta.vercel.app)
 
 </td>
 
