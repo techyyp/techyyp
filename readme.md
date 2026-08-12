@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/priyanshugupta18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/techyyp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://techyyp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
   <a href="mailto:priyanshuguptawebdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=priyanshugupta18-web&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
