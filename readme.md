@@ -41,8 +41,6 @@ const priyanshu = {
     languages: [
         "JavaScript",
         "C++",
-        "HTML",
-        "CSS"
     ],
 
     frontend: [
@@ -65,18 +63,6 @@ const priyanshu = {
         "React Native"
     ],
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-
-    currentlyLearning: [
-        "React Native",
-        "Backend Architecture",
-        "System Design"
-    ]
 };
 ```
 ## 🚀 Featured Projects
